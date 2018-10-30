@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, request
 
-__author__ = 'ibininja'
+
 
 app = Flask(__name__)
 
